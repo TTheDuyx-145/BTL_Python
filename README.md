@@ -26,5 +26,5 @@ Hệ thống quản lý kho hàng nhỏ, gồm các chức năng như:
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/username/QL_KhoHangNho.git
-   cd QL_KhoHangNho
+   git clone https://github.com/username/BTL_Python.git
+   cd BTL_Python
